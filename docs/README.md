@@ -1,32 +1,19 @@
-## docsify 11
+### 来喜 帮助中心
 
-> A magical documentation site generator.22
+下载地址:
 
-## What it is33
+[https://dl.cnhack.com/pc/Laixi_Setup.zip](https://dl.cnhack.com/pc/Laixi_Setup.zip)  [点我下载](https://dl.cnhack.com/pc/Laixi_Setup.zip)
 
-Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+推荐使用:
+Windows 10 22H2 x64 专业版
 
-See the [Quick start](quickstart.md) guide for more details.
+### 运行库:
 
-## Features
+如不能正常运行,需要安装这2个运行库(有些情况下可能需要关闭杀毒软件).
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE11
-- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
+.NET Framework 6.0.13 下载地址:
+[https://download.visualstudio.microsoft.com/download/pr/4c5e26cf-2512-4518-9480-aac8679b0d08/523f1967fd98b0cf4f9501855d1aa063/windowsdesktop-runtime-6.0.13-win-x64.exe](https://download.visualstudio.microsoft.com/download/pr/4c5e26cf-2512-4518-9480-aac8679b0d08/523f1967fd98b0cf4f9501855d1aa063/windowsdesktop-runtime-6.0.13-win-x64.exe)
 
-## Examples
+Microsoft Edge WebView2 2107.0.1418.52 下载地址:
+[https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ddeb4108-ac3c-40d5-a327-f2a9c6d63fea/MicrosoftEdgeWebView2RuntimeInstallerX64.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ddeb4108-ac3c-40d5-a327-f2a9c6d63fea/MicrosoftEdgeWebView2RuntimeInstallerX64.exe)
 
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
-
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR).
